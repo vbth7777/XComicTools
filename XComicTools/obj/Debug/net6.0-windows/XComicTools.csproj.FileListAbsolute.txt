@@ -24,3 +24,9 @@ C:\Users\Admin\Downloads\Public\Projects\XComicTools\XComicTools\XComicTools\obj
 C:\Users\Admin\Downloads\Public\Projects\XComicTools\XComicTools\XComicTools\obj\Debug\net6.0-windows\Theme\MenuButtonTheme.baml
 C:\Users\Admin\Downloads\Public\Projects\XComicTools\XComicTools\XComicTools\obj\Debug\net6.0-windows\ResourceXAML\MainResource.baml
 C:\Users\Admin\Downloads\Public\Projects\XComicTools\XComicTools\XComicTools\obj\Debug\net6.0-windows\Theme\TextBoxTheme.baml
+C:\Users\Admin\Downloads\Public\Projects\XComicTools\XComicTools\XComicTools\obj\Debug\net6.0-windows\MVVM\View\HomeView.g.cs
+C:\Users\Admin\Downloads\Public\Projects\XComicTools\XComicTools\XComicTools\obj\Debug\net6.0-windows\MVVM\View\HomeView.baml
+C:\Users\Admin\Downloads\Public\Projects\XComicTools\XComicTools\XComicTools\obj\Debug\net6.0-windows\Theme\ButtonTheme.baml
+C:\Users\Admin\Downloads\Public\Projects\XComicTools\XComicTools\XComicTools\bin\Debug\net6.0-windows\MaterialDesignColors.dll
+C:\Users\Admin\Downloads\Public\Projects\XComicTools\XComicTools\XComicTools\bin\Debug\net6.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\Admin\Downloads\Public\Projects\XComicTools\XComicTools\XComicTools\obj\Debug\net6.0-windows\XComicTools.csproj.CopyComplete

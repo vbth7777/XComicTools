@@ -7,7 +7,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Input;
 
-namespace QuanLyKho.ViewModel
+namespace XComicTools.Core
 {
     public class BaseViewModel : INotifyPropertyChanged
     {

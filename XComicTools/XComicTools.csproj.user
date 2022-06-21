@@ -18,6 +18,9 @@
     <Page Update="MVVM\View\HomeView.xaml">
       <SubType>Designer</SubType>
     </Page>
+    <Page Update="Theme\ButtonTheme.xaml">
+      <SubType>Designer</SubType>
+    </Page>
     <Page Update="Theme\TextBoxTheme.xaml">
       <SubType>Designer</SubType>
     </Page>

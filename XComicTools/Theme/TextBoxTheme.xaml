@@ -12,11 +12,13 @@
                             <Rectangle StrokeThickness="1" />
                             <TextBox
                                 x:Name="SearchBox"
+                                Style="{x:Null}"
                                 Margin="1"
                                 Padding="5"
                                 VerticalContentAlignment="Center"
                                 Background="Transparent"
                                 BorderThickness="0"
+                                FontSize="{TemplateBinding FontSize}"
                                 Foreground="#cfcfcf"
                                 Text="{TemplateBinding Text}" />
                             <TextBlock

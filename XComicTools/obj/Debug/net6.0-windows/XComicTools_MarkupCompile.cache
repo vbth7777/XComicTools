@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NET;NET6_0;NETCOREAPP
 C:\Users\Admin\Downloads\Public\Projects\XComicTools\XComicTools\XComicTools\App.xaml
-4-97655458
+6-963080925
 
-5152346196
-194-1951243044
-MainWindow.xaml;ResourceXAML\MainResource.xaml;Theme\MenuButtonTheme.xaml;Theme\TextBoxTheme.xaml;
+7-1827398838
+196-324654126
+MainWindow.xaml;MVVM\View\HomeView.xaml;ResourceXAML\MainResource.xaml;Theme\ButtonTheme.xaml;Theme\MenuButtonTheme.xaml;Theme\TextBoxTheme.xaml;
 
 False
 
